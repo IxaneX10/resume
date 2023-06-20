@@ -1,0 +1,43 @@
+
+a:hover {
+    color: #84b1cd;
+    font-size: 18px;
+}
+a:visited {
+    /* color: black; */
+}
+.card:hover {
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.374);
+    transition: all .5s;
+
+
+
+}
+img:hover {
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.374);
+    transition: all .5s;
+
+}
+
+
+    
+
+input {
+    cursor: pointer;
+}
+
+textarea {
+    cursor: pointer;
+}
+
+input:hover {
+    opacity: 0.6;
+}
+
+textarea:hover {
+    opacity: 0.6;
+}
+
+
+
+
