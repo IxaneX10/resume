@@ -17,8 +17,8 @@ body {
         
     
     .table {
-        left: 300px;
-        width: 545px;
+        left: 295px;
+        width: 550px;
         height: 274px;
     }
     hr {
@@ -34,6 +34,70 @@ body {
         /* margin; */
     }
 }
+@media (max-width: 860px) {
+    * {
+        font-size: 1rem;
+    }
+    .container {
+        width: 675px;
+
+        /* margin; */
+    }
+    .img1 {
+        top: 30px;
+    }
+    .name {
+        
+        left: 50px;
+        max-width: 470px ;
+    }
+    .info_text {
+    
+       max-width: 470px; 
+       min-height: 220px;
+
+    }
+    .box1 {
+        width: 660px;
+        height: 275px;
+    }
+
+    .box2 {
+        width: 660px;
+        top: 50px
+    }
+    .link_with_me {
+        
+        text-align: center;
+        min-height: 32px;
+        margin: 0px;
+    }
+    table {
+
+        max-width: 370px;
+        max-height: 275px;
+        
+    }
+    
+    
+    hr {
+        top: 47px;
+        position: relative;
+        width: 660px;
+
+    }
+    footer {
+        top: 47px;
+        position: relative;
+        
+        max-width: 655px;
+    }
+    
+
+    
+    
+}
+
 .container {
     max-width: 1080px;
     margin: 10px auto;
