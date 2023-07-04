@@ -1,38 +1,32 @@
 html {
-    background-image: url('art5.png');
+    background-color: #f6f6f6;
     
     /* background-color: rgba(236, 236, 236, 0.803); */
 }
 
-img {
-    background-color: #f6f6f6c8;
+.card {
+    background-color: #fafafa;
 }
 .name {
-    background-color: #f6f6f6c8;
     color: #2f434f;
 }
 .info_text h3 {
     color: #556f7f;
 }
-.info_text {
-    background-color: #f6f6f6c8;
+.img {
+    background-color: #fafafa;
 }
 table th {
     color: #556f7f;
 }
-table {
-    background-color: #f6f6f6c8;
-}
+
 .link_with_me {
-    background-color: #f6f6f6c8;
     color: #2f434f;
 }
 
 
 
-form {
-    background-color: #f6f6f6c8;
-}
+
 input {
     background-color: #e7e7e7d0;
     border: 1px solid #5f7c8d59;
@@ -49,9 +43,7 @@ hr {
     
     border: 0.63px solid #556f7f;
 }
-footer {
-    background-color: #f6f6f6c8;
-}
+
 
 a {
     color: #5f7c8d;
