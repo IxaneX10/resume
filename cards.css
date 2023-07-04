@@ -5,9 +5,39 @@ body {
     margin: 0px;
     
 }
+
+@media (max-width: 1080px) {
+    .name {
+        max-width: 650px;
+    }
+    .info_text {
+       max-width: 650px; 
+    }
+    /* .img2 { */
+        
+    
+    .table {
+        left: 300px;
+        width: 545px;
+        height: 274px;
+    }
+    hr {
+        width: 840px;
+        
+    }
+    footer {
+        max-width: 840px;
+        
+    }
+    .container {
+        width: 860px;
+        /* margin; */
+    }
+}
 .container {
     max-width: 1080px;
-    margin: 20px auto;
+    margin: 10px auto;
+    padding: 10px 0px;
     /* padding: 20px 0px; */
     /* position: relative; */
 }

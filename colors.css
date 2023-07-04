@@ -24,7 +24,10 @@ table th {
     color: #2f434f;
 }
 
-
+.container { 
+    background-color: #2f434f10;
+    border-radius: 3px;
+}
 
 
 input {
